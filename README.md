@@ -1,4 +1,4 @@
-# Anlise critica sobre aplicação do Scrum na INTEL
+# Analise critica sobre aplicação do Scrum na INTEL
 
 Na indústria de microprocessadores, a eficiência e a capacidade de adaptação são cruciais para manter a competitividade. O grupo de Engenharia de Desenvolvimento de Produtos (PDE) é vital para criar colaterais de teste que permitem a triagem e classificação econômica de 
 dispositivos. Diante de pressões de prazos e qualidade, o PDE implementou práticas ágeis e Scrum para melhorar a coordenação e entrega. A introdução do Scrum começou com a conscientização da equipe sobre os princípios ágeis. O Scrum foi escolhido por sua estrutura bem 
